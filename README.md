@@ -38,6 +38,13 @@ cd RiotLogin
 4. **Open Riot Client** - Make sure Riot Client is running
 5. **Login** - Select an account and click 🚀 Login
 
+## Disclaimer
+
+By using this tool, you acknowledge and accept all risks associated with its use. 
+Any consequences, account bans, or issues that arise from using Riot Account Manager 
+are solely your responsibility. The creator assumes no liability for any damages or 
+losses incurred. Use at your own risk.
+
 ### Options
 - **Auto Login** - Automatically submit credentials when enabled
 - **Stay Signed In** - Check the "Remember Me" option
@@ -93,4 +100,4 @@ If you encounter issues or have suggestions, feel free to open an Issue on GitHu
 **Repository:** https://github.com/LEATERNx/RiotLogin
 Thanks @lithellx for the inspiration!
 
-[![Riot Account Manager Demo](https://img.youtube.com/vi/24KIKuA-GGE)](https://www.youtube.com/watch?v=24KIKuA-GGE)
+[![Riot Account Manager](https://img.youtube.com/vi/24KIKuA-GGE/hqdefault.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
