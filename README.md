@@ -92,3 +92,5 @@ If you encounter issues or have suggestions, feel free to open an Issue on GitHu
 **Last Updated:** October 2025  
 **Repository:** https://github.com/LEATERNx/RiotLogin
 Thanks @lithellx for the inspiration!
+
+[![Riot Account Manager Demo](https://img.youtube.com/vi/24KIKuA-GGE)](https://www.youtube.com/watch?v=24KIKuA-GGE)
