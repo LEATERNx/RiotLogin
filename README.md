@@ -101,7 +101,7 @@ If you encounter issues or have suggestions, feel free to open an Issue on GitHu
 Thanks @lithellx for the inspiration!
 
 
-![Downloads](https://img.shields.io/github/DOWNLOADS/LEATERNx/RiotLogin/total)
+![GitHub Downloads](https://img.shields.io/github/downloads/LEATERNx/RiotLogin/total?style=for-the-badge&label=RiotLogin%20DOWNLOADS&color=red)
 
 
 [![Riot Account Manager](https://img.youtube.com/vi/24KIKuA-GGE/hqdefault.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
