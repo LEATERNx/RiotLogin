@@ -100,4 +100,8 @@ If you encounter issues or have suggestions, feel free to open an Issue on GitHu
 **Repository:** https://github.com/LEATERNx/RiotLogin
 Thanks @lithellx for the inspiration!
 
+
+![Downloads](https://img.shields.io/github/downloads/KULLANICI_ADI/REPO_ADI/total)
+
+
 [![Riot Account Manager](https://img.youtube.com/vi/24KIKuA-GGE/hqdefault.jpg)](https://www.youtube.com/watch?v=24KIKuA-GGE)
